@@ -1,0 +1,11 @@
+Flask
+flask-cors
+PyMuPDF
+python-docx
+spacy
+scikit-learn
+pandas
+numpy
+nltk
+lime
+Werkzeug
